@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Luc069
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and JS.
+Hi, I'm Luc (I guess because they call me like that).
+I'm 13 years old and really like programming
+
 - 📫 How to reach me (Discord='Luc#7962')
 
