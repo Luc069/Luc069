@@ -5,6 +5,7 @@
 <div align="center">
   <h3>Stats</h3>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luc069&layout=compact&theme=vision-friendly-light" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Luc069"
 </div>
 <div align="right" >
