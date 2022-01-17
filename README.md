@@ -3,7 +3,7 @@
   <h2 align="center">My name is Luc.</h2>
 </div>
 <div>
-  <img src="https://cdn.aboutluc.xyz/images/jxvjs7qnw5pfyayfm87l.png" />
+  <img src="https://cdn.aboutluc.xyz/images/bz8iqp64x1l5tds64irv.png" />
 <div>
 
 
