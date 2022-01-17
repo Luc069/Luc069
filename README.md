@@ -8,4 +8,5 @@
 <div>
   <a href="https://www.instagram.com/luc.069/"><img src="https://cdn.aboutluc.xyz/images/z4iwvhd89tzdr0z7t88n.png" /></a>
   <a href="https://aboutluc.xyz/discord"><img src="https://cdn.aboutluc.xyz/images/ivdrhor9zcbo9m0iyf4k.png" /></a>
+  <h4 align="left">Made by me</h4>
 <div>
