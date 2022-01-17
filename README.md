@@ -3,8 +3,9 @@
   <h5>I'm junior front-end developer. For now, I code as a hobby since I'm not old enough ☺️</h5>
 </div>
 <div align="center">
-  <h3>Most used languages:</h3>
+  <h3>Stats</h3>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luc069&layout=compact&theme=vision-friendly-light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luc069"
 </div>
 <div align="right" >
   <a href="https://www.instagram.com/luc.069/"><img src="https://cdn.aboutluc.xyz/images/z4iwvhd89tzdr0z7t88n.png" /></a>
