@@ -3,7 +3,7 @@
   <h2 align="center">My name is Luc.</h2>
 </div>
 <div>
-  <img src="https://cdn.aboutluc.xyz/images/z4iwvhd89tzdr0z7t88n.png" />
+  <a href="https://www.instagram.com/luc.069/"><img src="https://cdn.aboutluc.xyz/images/z4iwvhd89tzdr0z7t88n.png" /></a>
 <div>
 
 
