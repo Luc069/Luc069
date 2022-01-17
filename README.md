@@ -1,7 +1,2 @@
-<h1>Hello World!</h1>
-<h2>My name is Luc.</h2>
-<style>
-  h1, h2 {
-    text-align: center;
-  }
-</style>
+<h1 align="center">Hello World!</h1>
+<h2 align="center">My name is Luc.</h2>
