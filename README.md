@@ -2,6 +2,7 @@
   <h1>Hello World!<br>My name is Luc.</h1>
 </div>
 <div align="center">
+  <h3>Most used languages:</h3>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luc069&layout=compact&theme=vision-friendly-light" />
 </div>
 <div>
