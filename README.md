@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello World<br />My name is Luc<br /><h4>I'm junior front-end developer. For now, I code as a hobby since I'm not old enough.</h4></h1>
+  <h1>Hello World<br />My name is Luc<br /><br />I'm junior front-end developer. For now, I code as a hobby since I'm not old enough.</h1>
 </div>
 <div align="center">
   <h3>Most used languages:</h3>
