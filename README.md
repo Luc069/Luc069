@@ -3,9 +3,7 @@
   <h5>I'm junior front-end developer. For now, I code as a hobby since I'm not old enough ☺️</h5>
 </div>
 <div align="center">
-  <h3>Stats</h3>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Luc069&layout=compact&theme=vision-friendly-light" />
-  <br />
+  <h3>My stats 📈</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Luc069"
 </div>
 <div align="right" >
