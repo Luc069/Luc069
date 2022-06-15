@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hello World🌎<br />My name is Luc👋</h1>
-  <h5>I'm junior front-end developer. For now, I code as a hobby since I'm not old enough ☺️</h5>
 </div>
 <br />
 <div align="center">
